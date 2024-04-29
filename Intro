@@ -5,3 +5,9 @@ Units
 * Time is measured in units of days, weeks, months or years. Most often days or years.
 
 Sometimes units are not written , so T=1 means one year, and 1 unit of money means, for example ,1 USD.
+
+Names of time points and time lengthss
+* Current values are often called spot, for example the spot price of a stock is its price right now.
+* The final time point of a contract is usually called the contract's maturity.
+* * So the time to maturity of a contract is the amount of time from now until the contract's maturity.
+*The length of a contract from its start to its end is usually called the tenor of the contract.
