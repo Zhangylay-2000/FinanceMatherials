@@ -11,3 +11,14 @@ Names of time points and time lengthss
 * The final time point of a contract is usually called the contract's maturity.
 * * So the time to maturity of a contract is the amount of time from now until the contract's maturity.
 *The length of a contract from its start to its end is usually called the tenor of the contract.
+
+Discount factor and Present Vallue (PV)
+Alice and Bob set up a contract that starts now and ends at T=1:
+* Right now (at time t=0) Alice pays to Bob a fixed amount of money
+* In return , at time t=T=1 Bob will pay to Alice 1 unit of money
+To make this a fair contract ...
+... how much should Alice pay to Bob right now?
+Let us denote by P(1) this amount. This number is called the discount factor for tenor 1.
+Note that P(0)=1.
+
+
